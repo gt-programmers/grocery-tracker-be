@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# grocery-tracker-be
+>>>>>>> 0abe9681a8e4c32428d2b493a1e16b41fc5c4d54
